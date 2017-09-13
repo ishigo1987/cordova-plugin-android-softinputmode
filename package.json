@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Cordova Plugin for changing SoftInputMode at runtime",
   "cordova": {
-    "id": "cordova-plugin-android-softinputmode",
+    "id": "cordova-plugin-softinputmode",
     "platforms": [
       "android"
     ]
