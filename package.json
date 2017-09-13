@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-android-softinputmode",
+  "name": "cordova-plugin-softinputmode",
   "version": "1.0.0",
   "description": "Cordova Plugin for changing SoftInputMode at runtime",
   "cordova": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gnans/cordova-plugin-android-softinputmode.git"
+    "url": "git+https://github.com/gnans/cordova-plugin-android-softinputmode.git"
   },
   "keywords": [
     "cordova",
@@ -19,6 +19,10 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "sekar",
-  "license": "Apache 2.0"
+  "author": "gnans",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/gnans/cordova-plugin-android-softinputmode/issues"
+  },
+  "homepage": "https://github.com/gnans/cordova-plugin-android-softinputmode#readme"
 }
