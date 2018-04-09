@@ -1,0 +1,9 @@
+deploy:
+  provider: npm
+  email: gnanasekaranpg@gmail.com
+  api_key:
+    secure: fmG3gjXj0gOkR3kA+iAb8mNtteB9MAOnqttnwQUckdhUgMtGsfSkNqqodkKg2ESic/5qIDwti5rP/9K5ZZVP++oBBM3Aaf/kx5oXehH+xTEOO35pBWh4l3IHXTJOZSh6a9zGXxCZP3fuaC1PlSwo+Kim5DFUqTpIj8Hu0LihqeZOOqjqmNDhpqM+4x5pcekXNULtSJmz3yJtm1+rL+msoosFaU0LeEj7XEdB0ikUjo1PPExBZutf5IV0SLFVpC7/mqzw+b/s8iXLlzUWjP+HRA/b/8D6Fh9Vyl5RRPt3lwa2R3HdENOk+/zlIWrsb47A31pkZZcrbakFT09sTn2uRywUy4rXduHWLxKZOcamcKeOvRkZF4XLWvD7A5MZUBx0APbaspE6Vjdzgzk6bhyzlQNMm91qNM7+wvXwnJvduCqLxbwATgWNv9dnV3iufrKGyLv6/+ThsUmkJA6Odj9esj7vfrIg5+8WZlfp8cfeWQt/ddOU5DF37aIrIjGEIkuU26deKS5NEqV8wN53LIkroxSWWg+r2yIKGuJq3CZ57iZp53VhlpSj7QNoZA8V1P+unlY6A1FbLw3ZC4wrcHf4/XbevsI0w30LdngG3Gkm9eU8Ec8InNFw2qtQB/AN5pnYYrIkqkMNw01dJMw0zHVp16lkzFBlfyloPj/G0t9Mp9Y=
+  on:
+    tags: true
+    repo: gnans/cordova-plugin-android-softinputmode
+    branch: master
