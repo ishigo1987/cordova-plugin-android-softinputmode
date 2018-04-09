@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-softinputmode" version="1.0.0">
+        id="cordova-plugin-softinputmode" version="1.0.3">
     <name>SoftInputMode</name>
     <description>Cordova Plugin for changing SoftInputMode at runtime</description>
     <author>Oskar Haarklou Veileborg</author>
